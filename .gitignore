@@ -1,0 +1,9 @@
+venv
+*.spec 
+compilation_log.txt
+dist
+build
+.env
+__pycache__
+*.pyc
+dist.zip

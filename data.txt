@@ -1,0 +1,293 @@
+Insured:
+Property:
+
+Home:
+
+Claim Rep.:
+Position:
+
+Estimator:
+Position:
+Business:
+
+Claim Number:
+
+Date Contacted:
+Date of Loss:
+Date Inspected:
+
+Price List:
+
+Estimate:
+
+250058160
+
+OCTAVIO DELACRUZ ORTIZ
+116 Hazelnut Trl
+
+Forney, TX 75126-6885
+
+116 Hazelnut Trl
+
+Forney, TX 75126-6885
+
+Kevin Turner
+Remote Adjuster
+
+Ronald Madlock
+
+Field Adjuster
+
+P.O. Box 1623
+
+Winston-Salem, NC 27102-1623
+
+Policy Number: 2012605847
+
+1/24/2025 11:38 AM
+1/23/2025 12:00 AM
+2/1/2025 1:00 PM
+
+TXDF8X_JAN25
+Restoration/Service/Remodel
+
+OCTAVIO_DELACRUZ_
+ORI
+
+Date Received:
+Date Entered:
+
+Home:
+Cell:
+
+E-mail:
+
+Business:
+E-mail:
+
+Business:
+E-mail:
+
+(945) 260-5017
+(945) 260-5017
+
+TAVO-2207 @HOTMAIL.COM
+
+(314) 493-7829
+claims @ngic.com
+
+(336) 435-3058 x 53058
+claims @ngic.com
+
+Type of Loss: Hail
+
+1/23/2025 12:00 AM
+1/24/2025 7:47 AM
+Important Information
+
+Thank you for trusting us with your insurance needs. If you have any questions, please feel free to contact your company claim
+professional directly.
+
+This estimate is prepared using generally prevailing prices of building materials and labor in your geographic location and
+represents an estimate of damages recorded at the time of inspection. We encourage you to work with a contractor of your choice
+to complete these repairs. Please present this estimate to your contractor. If you or your contractor has any questions, have them
+contact us. Please notify us immediately if additional damage is identified, or if your contractor’s estimate exceeds this estimate.
+A subsequent inspection of the property may be required to inspect damages not known or visible at the time of the first
+inspection.
+
+Please be advised that within your estimate we may have applied depreciation to the repairs and/or replacement to structural
+and/or personal property items. Depreciation is based on the age and condition of the items, at the time of the loss, compared to
+its expected useful life. During the claim process, we asked for your assistance in establishing the age and condition of your
+damaged items. An item that has the expected wear and tear for its age and useful life will be considered in Average Condition.
+
+If after review of your estimate, please feel free to contact your adjuster should you have any questions or concerns on the
+depreciation that was applied. If we do not hear from you, we will conclude that you agree that the ages and conditions outlined
+in the estimate are accurate.
+
+If an amount is shown for Recoverable Depreciation, you may be entitled to this value or the amount you actually spend to repair
+or replace the items, whichever is less, subject to your policy conditions. Following our payment of the Actual Cash Value
+amount to you, please make repairs and/or replacement to the covered property, that was subject of the claim, as soon as
+reasonably possible.
+
+Please refer to your policy or settlement letter for details on any applicable time limits and documentation necessary for recovery
+of withheld recoverable depreciation amounts. Please send any correspondence, photos, or supporting repair documentation to
+your adjuster at claims @ngic.com or the regular mail address below. Please include the claim number on all documents. If you
+are sending documents via email, please include the claim number in the subject line.
+
+PO Box 1623
+Winston-Salem, NC 27102-1623
+
+If you wish, you may repair or replace with higher quality items, but we will only pay the recoverable depreciation as stated in
+our estimate. If the repair or replacement cost to you is less than the estimated replacement cost, we will only pay the difference
+between your cost less your deductible and the actual cash value already paid to you.
+
+Your mortgage holder may be named on your payment. If your mortgagee is named on your payment you should contact them
+directly to obtain instructions on their process for releasing funds for your claim. If there has been a change in the mortgage, or if
+there is no longer a mortgage on the home, please contact us immediately to make those corrections. In addition to notifying us
+of a change in your mortgage, you are required to notify your agent immediately.
+
+This estimate report does not confirm the validity of coverage and does not constitute settlkement of your claim.
+
+OCTAVIO_DELACRUZ_OR1 2/1/2025 Page: 2
+OCTAVIO_DELACRUZ_OR1
+
+Dwelling
+Exterior
+Dwelling Roof1
+2961.53 Surface Area 29.62 Number of Squares
+252.33 Total Perimeter Length 55.44 Total Ridge Length
+
+117.79 Total Hip Length
+
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+
+*k** Roof Replacement****
+
+1. Tear off, haul and dispose of comp. shingles - 3 tab
+
+29.62 SQ 64.42 0.00 1,908.12 0/25 yrs Avg. NA (0.00) 1,908.12
+2. 3 tab - 25 yr. - comp. shingle roofing - w/out felt
+32.00 SQ 229.64 308.09 7,656.57 10/25 yrs Avg. 40% (1,617.00) 6,039.57
+
+Auto Calculated Waste: 8.1%, 2.38SQ
+Options: Valleys: Closed-cut (half laced), Include eave starter course: No, Include rake starter course: No, Include ridge/hip cap: No, Exposure -
+Hip/Valley/Starter: 5",
+Bundle Rounding: 0.7%, 0.20SQ - (included in waste calculation above)
+This line item includes an allowance of $108.53 per unit, which reflects current market values in your area. Market prices were verified by Material
+Supply Warehouse (MSW). While you or your contractor are under no obligation to use this supplier, MSW allows you or your contractor of choice
+to have materials delivered to your home for installation. For more information on MSW, please visit www.materialsupplywarehouse.com, or
+contact them at info @materialsupplywarehouse.com, or 888-508-5009.
+3. Roofing felt - 15 Ib.
+29.62 SQ 32.50 20.28 982.93 10/20 yrs Avg. 50% (133.06) 849.87
+
+4. Drip edge
+
+211.00 LF 2.74 19.32 597.46 10/35 yrs Avg. 28.57% (72.44) 525.02
+
+KREEV an tye **
+
+5. Flashing - pipe jack
+
+5.00 EA 44.89 5.01 229.46 10/35 yrs Avg. 28.57% (18.77) 210.69
+6. R&R Power attic vent cover only - metal
+
+4.00 EA 105.77 10.03 433.11 10/7 yrs Avg. 90% [M] (118.40) 314.71
+7. R&R Rain cap - 4" to 5"
+
+2.00 EA 39.62 2.56 81.80 10/35 yrs Avg. 28.57% (9.61) 72.19
+
+**%* A ditional Labor Charges****
+#8 Mfiscellaneous****
+
+8. Chimney flashing - average (32" x 36")
+
+1.00 EA 400.76 6.69 407.45 10/35 yrs Avg. 28.57% (25.07) 382.38
+9. R&R Fireplace - chimney chase cover - sheet metal
+
+1.00 EA 434.32 17.49 451.81 10/20 yrs Avg. 50% (114.75) 337.06
+10. Digital satellite system - Detach & reset
+
+1.00 EA 35.76 0.00 35.76 O/NA Avg. 0% (0.00) 35.76
+Totals: Dwelling Roofl 389.47 12,784.47 2,109.10 10,675.37
+Total: Exterior 389.47 12,784.47 2,109.10 10,675.37
+
+OCTAVIO_DELACRUZ_OR1 2/1/2025 Page: 3
+Front Elevation
+
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+11. Glazing bead - Vinyl
+6.00 LF 3.48 1.33 22.21 10/18 yrs Avg. 55.56% (9.71) 12.50
+12. Overhead door & hardware - 9' x 7'
+2.00 EA 1,096.10 139.25 2,331.45 10/35 yrs Avg. 28.57% (522.05) 1,809.40
+13. Comb and straighten a/c condenser fins - with trip charge
+1.00 EA 183.46 0.00 183.46 O/NA Avg. 0% (0.00) 183.46
+14. downspout - aluminum - up to 5"*
+12.00 LF 8.39 3.98 104.66 10/25 yrs Avg. 40% (20.89) 83.77
+Totals: Front Elevation 144.56 2,641.78 552.65 2,089.13
+Right Elevation
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+15. downspout - aluminum - up to 5"*
+24.00 LF 8.39 7.96 209.32 10/25 yrs Avg. 40% (41.77) 167.55
+Totals: Right Elevation 7.96 209.32 41.77 167.55
+
+Rear Elevation
+
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+16. Glazing bead - Vinyl
+
+9.00 LF 3.48 2.00 33.32 10/18 yrs Avg. 55.56% (14.56) 18.76
+
+17. downspout - aluminum - up to 5"*
+36.00 LF 8.39 11.94 313.98 10/25 yrs Avg. 40% (62.67) 251.31
+Totals: Rear Elevation 13.94 347.30 77.23 270.07
+
+Left Elevation
+
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+
+18. downspout - aluminum - up to 5"*
+24.00 LF 8.39 7.96 209.32 10/25 yrs Avg. 40% (41.77) 167.55
+Totals: Left Elevation 7.96 209.32 41.77 167.55
+
+OCTAVIO_DELACRUZ_OR1 2/1/2025 Page: 4
+Debris Removal
+
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+19. Haul debris - per pickup truck load - including dump fees
+1.00 EA 170.92 0.00 170.92 O/NA Avg. NA (0.00) 170.92
+Totals: Debris Removal 0.00 170.92 0.00 170.92
+Gutters
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+20. Gutter / downspout - aluminum - up to 5"
+211.00 LF 8.39 69.98 1,840.27 10/25 yrs Avg. 40% (367.28) 1,472.99
+Totals: Gutters 69.98 1,840.27 367.28 1,472.99
+Total: Dwelling 633.87 18,203.38 3,189.80 15,013.58
+Labor Minimums Applied
+QUANTITY UNIT TAX RCV AGE/LIFE COND. DEP % DEPREC. ACV
+21. Window labor minimum
+1.00 EA 238.03 0.00 238.03 O/NA Avg. 0% (0.00) 238.03
+Totals: Labor Minimums Applied 0.00 238.03 0.00 238.03
+Line Item Totals: OCTAVIO_ 633.87 18,441.41 3,189.80 15,251.61
+
+DELACRUZ_OR1
+
+[%] - Indicates that depreciate by percent was used for this item
+[M] - Indicates that the depreciation percentage was limited by the maximum allowable depreciation for this item
+
+Grand Total Areas:
+0.00 SF Walls 0.00 SF Ceiling 0.00 SF Walls and Ceiling
+0.00 SF Floor 0.00 SY Flooring 0.00 LF Floor Perimeter
+0.00 SF Long Wall 0.00 SF Short Wall 0.00 LF Ceil. Perimeter
+0.00 Floor Area 0.00 Total Area 0.00 Interior Wall Area
+0.00 Exterior Wall Area 0.00 Exterior Perimeter of
+Walls
+2,961.53 Surface Area 29.62 Number of Squares 252.33 Total Perimeter Length
+55.44 Total Ridge Length 117.79 Total Hip Length
+
+OCTAVIO_DELACRUZ_OR1 2/1/2025 Page: 5
+Summary for
+
+Dwelling
+Line Item Total $17,807.54
+Material Sales Tax 633.87
+Replacement Cost Value $18,441.41
+Less Recoverable Depreciation (3,189.80)
+Actual Cash Value $15,251.61
+Less Deductible (6,310.00)
+Net Claim $8,941.61
+Total Recoverable Depreciation 3,189.80
+Net Claim if Depreciation is Recovered $12,131.41
+
+Ronald Madlock
+Field Adjuster
+
+OCTAVIO_DELACRUZ_OR1 2/1/2025 Page: 6
+Recap of Taxes
+
+Material Sales Tax Cleaning Mtl Tax Cleaning Sales Tax Manuf. Home Tax Storage Rental Tax Total Tax (8.25%)
+(8.25%) (8.25%) (8.25%) (5%) (8.25%)
+Line Items
+633.87 0.00 0.00 0.00 0.00 0.00
+Total
+633.87 0.00 0.00 0.00 0.00 0.00
+OCTAVIO_DELACRUZ_ORI1 2/1/2025 Page: 7

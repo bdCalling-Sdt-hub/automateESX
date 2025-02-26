@@ -1,0 +1,57 @@
+
+{
+    "insuranceCompany": "N/A",
+    "mailingAddress": "PO Box 1623, Winston-Salem, NC 27102-1623",
+    "insured": {
+        "name": "Octavio Delacruz Ortiz",
+        "phone": "(945) 260-5017",
+        "email": "tavo-2207@hotmail.com",
+        "street": "116 Hazelnut Trl",
+        "city": "Forney",
+        "state": "TX",
+        "zipCode": "75126"
+    },
+    "claimDetails": {
+        "claimNumber": "N/A",
+        "policyNumber": "2012605847",
+        "typeOfLoss": "Hail",
+        "dates": {
+            "contacted": "1/24/2025 11:38 AM",
+            "loss": "1/23/2025 12:00 AM",
+            "received": "1/23/2025 12:00 AM",
+            "inspected": "2/1/2025 1:00 PM",
+            "entered": "1/24/2025 7:47 AM",
+            "estimateCompleted": "2/1/2025 1:00 PM"
+        },
+        "priceList": "TXDF8X_JAN25",
+        "tax_jurisdiction": "8.25%"
+    },
+    "policyType": "N/A",
+    "amount": "6,310.00",
+    "estimation": [
+        {
+            "section": "Dwelling Roof"
+        },
+        {
+            "section": "Front Elevation"
+        },
+        {
+            "section": "Right Elevation"
+        },
+        {
+            "section": "Rear Elevation"
+        },
+        {
+            "section": "Left Elevation"
+        },
+        {
+            "section": "Debris Removal"
+        },
+        {
+            "section": "Gutters"
+        },
+        {
+            "section": "Labor Minimums Applied"
+        }
+    ]
+}

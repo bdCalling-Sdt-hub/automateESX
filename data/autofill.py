@@ -54,10 +54,10 @@ def autoFill(data, text, exportESX):
     time.sleep(1)
     pyautogui.hotkey("win", "up")
     time.sleep(1)
-    if isExistImage("images/CLOSESIDE.png"):
-        time.sleep(1)
-        find_and_click("images/CLOSESIDE.png")
-        time.sleep(1)
+    # if isExistImage("images/CLOSESIDE.png"):
+    #     time.sleep(1)
+    #     find_and_click("images/CLOSESIDE.png")
+    #     time.sleep(1)
     # Client Information
     pyautogui.write(data.get("insured", {}).get("name", ""), interval=writeInterval)
     keyboard.press(Key.tab)
@@ -104,7 +104,7 @@ def autoFill(data, text, exportESX):
     time.sleep(2)
     location = pyautogui.locateOnScreen("images/CLAIMINFO.png", confidence=0.8)
     x,y=pyautogui.center(location)
-    pyautogui.moveTo(x+100,y+25,duration=0.2)
+    pyautogui.moveTo(x+120,y+40,duration=0.2)
     pyautogui.click()
     time.sleep(2)
     pyautogui.write(f"{claim_number}", interval=writeInterval)
@@ -114,7 +114,9 @@ def autoFill(data, text, exportESX):
     )
     keyboard.press(Key.tab)
     keyboard.press(Key.tab)
-    find_and_click("images/TOL.png")
+    time.sleep(2)
+    keyboard.press(Key.enter)
+    time.sleep(2)
     pyautogui.write(
         data.get("claimDetails", {}).get("typeOfLoss", ""), interval=writeInterval
     )
@@ -129,11 +131,11 @@ def autoFill(data, text, exportESX):
     speak("Going to parameters")
     find_and_click("images/PARAMETERS.png")
     time.sleep(1)
-    find_and_click("images/PRICELIST.png")
+    keyboard.press(Key.tab)
     time.sleep(1)
     keyboard.press(Key.enter)
     time.sleep(1)
-    fillPriceList(data.get("claimDetails", {}).get("priceList", ""))
+    fillPriceList(data.get("claimDetails", {}).get("priceList", []))
     time.sleep(3)
     keyboard.press(Key.down)
     time.sleep(1)

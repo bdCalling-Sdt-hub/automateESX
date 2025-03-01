@@ -8,5 +8,6 @@ __pycache__
 *.pyc
 dist.zip
 *.zip
-images2
+/images2
 dist2
+

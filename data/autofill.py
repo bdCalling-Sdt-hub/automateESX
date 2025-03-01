@@ -145,15 +145,15 @@ def autoFill(data, text, exportESX):
     time.sleep(1)
     keyboard.press(Key.enter)
     time.sleep(3)
-    find_and_click("images/CHECKOUT_PRICELIST.png")
-    time.sleep(1)
-    keyboard.press(Key.space)
-    time.sleep(2)
-    keyboard.press(Key.enter)
-    pyautogui.write(
-        data.get("claimDetails", {}).get("priceList", ""), interval=writeInterval
-    )
-    keyboard.press(Key.enter)
+    # find_and_click("images/CHECKOUT_PRICELIST.png")
+    # time.sleep(1)
+    # keyboard.press(Key.space)
+    # time.sleep(2)
+    # keyboard.press(Key.enter)
+    # pyautogui.write(
+    #     data.get("claimDetails", {}).get("priceList", ""), interval=writeInterval
+    # )
+    # keyboard.press(Key.enter)
     time.sleep(1)
     # adding estimates
     find_and_click("images/ESTIMATE.png")
@@ -186,7 +186,7 @@ def autoFill(data, text, exportESX):
             fillItems(item)
             time.sleep(2)
 
-        autoFillQuantity(data.get("items", []))
+        # autoFillQuantity(data.get("items", []))
         time.sleep(1)
     # closing the window
     time.sleep(5)

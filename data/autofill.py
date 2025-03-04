@@ -103,8 +103,8 @@ def autoFill(data, text, exportESX):
     speak("Going to Loss and Coverage")
     time.sleep(2)
     location = pyautogui.locateOnScreen("images/CLAIMINFO.png", confidence=0.8)
-    x,y=pyautogui.center(location)
-    pyautogui.moveTo(x+120,y+40,duration=0.2)
+    x, y = pyautogui.center(location)
+    pyautogui.moveTo(x + 120, y + 40, duration=0.2)
     pyautogui.click()
     time.sleep(2)
     pyautogui.write(f"{claim_number}", interval=writeInterval)
@@ -198,7 +198,7 @@ def autoFill(data, text, exportESX):
         keyboard.press(Key.f4)
         keyboard.release(Key.f4)
     # Exporting the ESX
-    if exportESX != False:
+    if exportESX:
         speak("Form filled successfully now starting the export process")
         time.sleep(3)
         find_and_click("images/SEARCH.png")
